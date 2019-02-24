@@ -8,35 +8,11 @@
     ".NETCoreApp,Version=v2.1": {
       "TicketBot/1.0.0": {
         "dependencies": {
-          "Colorful.Console": "1.2.9",
           "Discord.Net": "2.0.1",
           "Figgle": "0.3.0"
         },
         "runtime": {
           "TicketBot.dll": {}
-        }
-      },
-      "Colorful.Console/1.2.9": {
-        "dependencies": {
-          "Microsoft.CSharp": "4.0.1",
-          "System.Collections": "4.3.0",
-          "System.Collections.Concurrent": "4.0.12",
-          "System.Console": "4.0.0",
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Globalization": "4.3.0",
-          "System.IO.FileSystem": "4.3.0",
-          "System.Linq": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Runtime.InteropServices": "4.3.0",
-          "System.Text.RegularExpressions": "4.1.0"
-        },
-        "runtime": {
-          "lib/netstandard2.0/Colorful.Console.dll": {
-            "assemblyVersion": "1.2.9.0",
-            "fileVersion": "1.2.9.0"
-          }
         }
       },
       "Discord.Net/2.0.1": {
@@ -466,13 +442,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Colorful.Console/1.2.9": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-4zyBt7+aHN7/JozQdJY5gC7IHAUprzv3CHI30XZmprgQloztE+1w9SOgg91K+4QQgJk5qXg9QiaJNz7ySdYPHA==",
-      "path": "colorful.console/1.2.9",
-      "hashPath": "colorful.console.1.2.9.nupkg.sha512"
     },
     "Discord.Net/2.0.1": {
       "type": "package",
