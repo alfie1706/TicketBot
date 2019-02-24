@@ -1,1 +1,1 @@
-dotnet TicketBot.Startup.dll
+dotnet TicketBot.dll
