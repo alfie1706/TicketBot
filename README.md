@@ -4,7 +4,7 @@ Developed and maintained by [alfie1706](https://github.com/alfie1706) @ [VoidSer
 
 This tool aims to help your company by giving you the ability to setup your own bot in less than 5 minutes!
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/alfieturner1706)
 
 ## Dependencies
 .NET Framework 2.0 or later
