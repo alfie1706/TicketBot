@@ -20,8 +20,10 @@ To launch the bot for the first time, you will need to do the following.
  1. Clone this repository to your computer/server
  2. Ensure you have .NET framework 2.0 or later installed (see above for downloads)
  3. Navigate to the directory you cloned the repository to and execute commands
-3a. linux - `dotnet TicketBot.dll` `bash run.sh`
-3b. Windows - `dotnet TicketBot.dll` or open application `run.bat`
+ 
+   3a. linux - `dotnet TicketBot.dll` `bash run.sh`
+
+   3b. Windows - `dotnet TicketBot.dll` or open application `run.bat`
 
 ### First-time installation:
  1. To get a bot token (as seen in the first step upon startup) you will need to create a bot user. An in-depth tutorial can be found at this link [here](https://discordpy.readthedocs.io/en/rewrite/discord.html). If you need any further assistance with this please do not hesitate to reach out to me!
