@@ -11,7 +11,7 @@ This tool aims to help your company by giving you the ability to setup your own 
 
  - Windows installation: https://dotnet.microsoft.com/download
  - Linux installation: https://dotnet.microsoft.com/download/linux-package-manager/ubuntu18-04/sdk-2.1.301 (Be sure to choose your correct linus distro!)
- - 
+
 ## So, I have the dependencies. How do I setup?
 Excellent! These next steps will guide you through the initial startup of the TicketBot.
 
