@@ -1,2 +1,0 @@
-dotnet TicketBot.dll
-pause
