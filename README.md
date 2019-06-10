@@ -1,3 +1,4 @@
+# IMPORTANT: Repository currently cleared due to a complete bot rewrite in progress.
 
 # TicketBot
 Developed and maintained by [alfie1706](https://github.com/alfie1706) @ [VoidServices](https://github.com/VoidServices). See a live version [here](https://discordapp.com/oauth2/authorize?client_id=549348671989350427&scope=bot&permissions=8)!
