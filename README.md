@@ -17,7 +17,7 @@ Excellent! These next steps will guide you through the initial startup of the Ti
 To launch the bot for the first time, you will need to do the following.
 
  1. Clone this repository to your computer/server
- 2. Ensure you have [.NET framework 2.0](https://dotnet.microsoft.com/) and [Node.JS v10 or later](https://nodejs.org/) installed
+ 2. Ensure you have [.NET core 2.2](https://dotnet.microsoft.com/) and [Node.JS v10 or later](https://nodejs.org/) installed
  3. Navigate to the directory in which you cloned the repository and if on mac/linux, mark it as an executable type file with ``chmod +x <filename>``
  4. Open the file and follow the instructions on screen!
 
