@@ -1,7 +1,7 @@
-# IMPORTANT: Repository currently cleared due to a complete bot rewrite in progress.
+ # UPDATE: I'm back! After a long year off, i'm returning to this bot. Expect big things soon:tm:!
 
 # TicketBot
-Developed and maintained by [alfie1706](https://github.com/alfie1706) @ [VoidServices](https://github.com/VoidServices). See a live version [here](https://discordapp.com/oauth2/authorize?client_id=549348671989350427&scope=bot&permissions=8)!
+Developed and maintained by [alfie1706](https://github.com/alfie1706). See a live version [here](https://discordapp.com/oauth2/authorize?client_id=549348671989350427&scope=bot&permissions=8)!
 
 This tool aims to help your company by giving you the ability to setup your own bot in less than 5 minutes!
 
